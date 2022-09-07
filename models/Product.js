@@ -10,7 +10,7 @@ class Product extends Model {}
 Product.init(
   {
     // define columns
-    name: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true

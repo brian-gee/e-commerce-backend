@@ -23,7 +23,7 @@ Product.init(
     },
 
     price: {
-      type: DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL(7, 2),
       allowNull: false,
     },
 

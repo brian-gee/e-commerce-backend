@@ -14,4 +14,4 @@ To install this app simple clone the repo, run 'npm i' and create the db using M
 
 ## Video Demonstration
 
-<a href="https://drive.google.com/file/d/1gV9_quPSKgmBDkk_7ghGYCSQ-T5mKq8D/view?usp=sharing"></a>
+<a href="https://drive.google.com/file/d/1gV9_quPSKgmBDkk_7ghGYCSQ-T5mKq8D/view?usp=sharing"><img>![pic-selected-220909-0007-25](https://user-images.githubusercontent.com/39035211/189270184-47f12318-3544-41f6-a3c9-48f795b423f5.png)</img></a>
